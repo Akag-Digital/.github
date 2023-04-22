@@ -1,4 +1,4 @@
-<img src="/profile/assets/akag.gif" alt="akag gif" style="border-radius: 10px;">
+<img src="/profile/assets/akag.gif" data-delay="1" loop="1" alt="akag gif" style="border-radius: 10px;">
 
 ## Links
 
